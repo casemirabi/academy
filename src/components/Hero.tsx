@@ -21,7 +21,7 @@ const Hero = () => {
         <div className="absolute inset-0 bg-gradient-to-r from-gray-900/80 via-gray-900/60 to-transparent"></div>
       </div>
 
-      <div className="container mx-auto px-4 relative z-10">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="max-w-3xl">
           <div className="flex items-center space-x-2 mb-4">
             <div className="flex text-yellow-400">
