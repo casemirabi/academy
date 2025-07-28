@@ -30,7 +30,7 @@ const Header = () => {
           <div className="flex items-center space-x-2">
             <Dumbbell className="h-8 w-8 text-orange-500" />
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Performance</h1>
+              <h1 className="text-xl font-bold text-gray-900">DespertaFit</h1>
               <p className="text-xs text-gray-600">Mogi das Cruzes</p>
             </div>
           </div>
