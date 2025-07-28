@@ -36,7 +36,7 @@ const Header = () => {
           </div>
 
           {/* Desktop Menu */}
-          <nav className="hidden md:flex items-center space-x-8">
+          <nav className="hidden md:flex items-center space-x-4">
             <button onClick={() => scrollToSection('inicio')} className="text-gray-700 hover:text-orange-500 transition-colors font-medium">
               Início
             </button>
