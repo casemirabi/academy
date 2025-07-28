@@ -6,7 +6,7 @@ const depoimentos = [
     nome: 'Maria Silva',
     profissao: 'Empresária',
     foto: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop',
-    texto: 'A Academia Performance mudou minha vida! Perdi 15kg em 6 meses e me sinto muito mais disposta. Os professores são excelentes e sempre motivam a gente.',
+    texto: 'A Academia DespertaFit mudou minha vida! Perdi 15kg em 6 meses e me sinto muito mais disposta. Os professores são excelentes e sempre motivam a gente.',
     avaliacao: 5
   },
   {
@@ -34,7 +34,7 @@ const Depoimentos = () => {
             O que nossos alunos dizem
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Resultados reais de pessoas reais. Veja como a Academia Performance tem transformado vidas.
+            Resultados reais de pessoas reais. Veja como a Academia DespertaFit tem transformado vidas.
           </p>
         </div>
 

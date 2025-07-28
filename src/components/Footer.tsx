@@ -18,7 +18,7 @@ const Footer = () => {
             <div className="flex items-center space-x-2 mb-4">
               <Dumbbell className="h-8 w-8 text-orange-500" />
               <div>
-                <h3 className="text-xl font-bold">Performance</h3>
+                <h3 className="text-xl font-bold">DespertaFit</h3>
                 <p className="text-sm text-gray-400">Mogi das Cruzes</p>
               </div>
             </div>
@@ -114,7 +114,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="text-orange-500" size={16} />
-                <p className="text-gray-300 text-sm">contato@academiaperformance.com.br</p>
+                <p className="text-gray-300 text-sm">contato@academiadespertafit.com.br</p>
               </div>
             </div>
           </div>
@@ -122,7 +122,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 Academia Performance. Todos os direitos reservados. | 
+            © 2025 Academia DespertaFit. Todos os direitos reservados. | 
             <span className="text-orange-500"> Desenvolvido com ❤️ para transformar vidas</span>
           </p>
         </div>

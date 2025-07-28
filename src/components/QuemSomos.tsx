@@ -9,11 +9,11 @@ const QuemSomos = () => {
           {/* Texto */}
           <div>
             <h2 className="text-4xl font-bold text-gray-900 mb-6">
-              Conheça a Academia Performance
+              Conheça a Academia DespertaFit
             </h2>
             
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              Há mais de 10 anos transformando vidas em Mogi das Cruzes, a Academia Performance 
+              Há mais de 10 anos transformando vidas em Mogi das Cruzes, a Academia DespertaFit 
               é referência em qualidade, inovação e resultados. Nossa missão é proporcionar 
               um ambiente completo para você alcançar seus objetivos de forma saudável e sustentável.
             </p>
@@ -85,7 +85,7 @@ const QuemSomos = () => {
             <div className="relative overflow-hidden rounded-2xl shadow-2xl">
               <img 
                 src="https://images.pexels.com/photos/1552188/pexels-photo-1552188.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop"
-                alt="Interior da Academia Performance"
+                alt="Interior da Academia DespertaFit"
                 className="w-full h-[600px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900/50 to-transparent"></div>

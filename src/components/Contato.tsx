@@ -19,7 +19,7 @@ const Contato = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     // Criar mensagem para WhatsApp
-    const mensagem = `Olá! Vim do site da Academia Performance.
+    const mensagem = `Olá! Vim do site da Academia DespertaFit.
     
 Nome: ${formData.nome}
 Email: ${formData.email}
@@ -79,7 +79,7 @@ Mensagem: ${formData.mensagem}`;
                 </div>
                 <div>
                   <h4 className="text-white font-semibold mb-1">Email</h4>
-                  <p className="text-gray-300">contato@academiaperformance.com.br</p>
+                  <p className="text-gray-300">contato@academiadespertafit.com.br</p>
                 </div>
               </div>
 
